@@ -1,0 +1,36 @@
+{
+  "home": {
+    "title": "unpuffed",
+    "hero": {
+      "body": "coming soon...",
+      "button": "GitHub",
+      "learn": "Learn more"
+    }
+  },
+  "legal": {
+    "title": "Legal Info",
+    "info": "Information provided based on § 5 TMG:",
+    "phone": "Phone:",
+    "registry": {
+      "court": "Registration Court:",
+      "number": "Registered under Number: "
+    },
+    "ceo": "Represented by",
+    "address": {
+      "title": "Address"
+    },
+    "dispute": {
+      "title": "Platform of the EU-Commision for online-disputes:",
+      "body": "We neither must nor want to participate in any of such lawsuits."
+    }
+  },
+  "footer": {
+    "social": {
+      "title": "SOCIAL"
+    },
+    "info": {
+      "title": "INFO",
+      "legal": "Legal Info"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "home": {
+    "title": "unpuffed",
+    "hero": {
+      "body": "Bald verfügbar...",
+      "button": "GitHub",
+      "learn": "Mehr erfahren"
+    }
+  },
+  "legal": {
+    "title": "Impressum",
+    "info": "Angaben gemäß § 5 TMG:",
+    "phone": "Telefon:",
+    "registry": {
+      "court": "Registergericht:",
+      "number": "Registernummer: "
+    },
+    "ceo": "Geschäftsführer",
+    "address": {
+      "title": "Anschrift"
+    },
+    "dispute": {
+      "title": "Plattform der EU-Kommission zur Online-Streitbeilegung:",
+      "body": "Wir sind zu einer Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit."
+    }
+  },
+  "footer": {
+    "social": {
+      "title": "SOZIALES"
+    },
+    "info": {
+      "title": "INFO",
+      "legal": "Impressum"
+    }
+  }
+}
